@@ -5,6 +5,9 @@ Stock Web 是一個增進自我技術的方案，希望可以藉由此方案，�
 
 ## Alpha Vantage API
 ---
+> **_注意事項_**
+_Alpha Vantage API 抓取的股票是美股，台股不確定是否能抓取成功_
+
 先到 Alpha Vantage 官網：<link>https://www.alphavantage.co/</link><br>
 進去後下方會有三個可選的按鈕，分別是"STOCK MARKET API", "GLOBAL NEW API", "GET FREE API KET"
 點擊"GET FREE API KEY"
